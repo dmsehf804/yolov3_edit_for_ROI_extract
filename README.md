@@ -17,7 +17,7 @@ This project is editing YOLOv3 for ROI extractor for human
 
 Specify required components as relative paths to avoid typing them directly on the command line
 
-##detector.c
+## detector.c
 
 **585~746** 
 
